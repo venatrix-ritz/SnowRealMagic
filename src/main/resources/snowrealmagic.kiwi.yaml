@@ -9,6 +9,8 @@ modules:
   target: snownee.snow.compat.diagonalfences.DiagonalFencesCompat
 - data: {dependencies: diagonalwalls, value: diagonalwalls}
   target: snownee.snow.compat.diagonalwalls.DiagonalWallsCompat
+- data: {dependencies: farmersdelight, value: farmersdelight}
+  target: snownee.snow.compat.farmersdelight.FarmersDelightCompat
 - data: {}
   target: snownee.snow.CoreModule
 packets:
